@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Shashank Rai and I have over 6 years of data analytics experience wherein I have consulted with 25+ higher education clients to help in their organizational transformation through data analytics. I have also consulted with Loyola University New Orleans for two years where I developed new analytical tools and data pipelines to lead the university back into profitability. I have extensive experience in marketing analytics and product analytics and also helped clients develop and implement online learning products. I am especially well equipped with tools like Python, R, SQL, and Tableau and complex statistical analysis. Outside of my analytical skills, I have led and developed a team of analysts in the past to improve the organizational culture of data-driven decision-making![image](https://user-images.githubusercontent.com/25066236/119213469-e37cfa00-ba84-11eb-8ddf-c32988815fcf.png)
+
+
 <!--
 **ssr48/ssr48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
