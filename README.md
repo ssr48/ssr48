@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shashank Rai and I am a Financial Analyst at Amazon. I have over 6 years of data analytics experience wherein I have consulted with 25+ higher education clients to help in their organizational transformation through data analytics. I have also consulted with Loyola University New Orleans for two years where I developed new analytical tools and data pipelines to lead the university back into profitability. I have extensive experience in marketing, financial, and product analytics and also helped clients develop and implement online learning products. I am especially well equipped with tools like Python, R, SQL, and Tableau and complex statistical analysis. Outside of my analytical skills, I have led and developed a team of analysts in the past to improve the organizational culture of data-driven decision-making!
+My name is Shashank Rai and I am a Business Analyst at Amazon. I have over a decade of data analytics experience wherein I have worked in tech, finance, and education. I have help clients in their organizational transformation efforts through data analytics. I have extensive experience in marketing, financial, and product analytics and also helped clients develop and implement online learning products. I am especially well equipped with tools like Python, R, SQL, and Tableau and complex statistical analysis. Outside of my analytical skills, I have led and developed a team of analysts in the past to improve the organizational culture of data-driven decision-making!
 
 
 <!--
